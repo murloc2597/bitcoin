@@ -2,6 +2,7 @@ Bitcoin Core integration/staging tree
 =====================================
 
 https://bitcoincore.org
+bit coin esta chulo esta que mola
 
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
